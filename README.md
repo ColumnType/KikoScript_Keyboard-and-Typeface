@@ -5,7 +5,7 @@ For the MacBook Keyboard ending in ".dmg" all you need to do is download the fil
 
 For Windows, follow these instructions:
 1. Download the Universal Keyboard file above
-2. Download Keyman on your computer or any device you use here - [Keyman Keyboard](https://keyman.com/)
+2. Download Keyman on your computer or any device you use here - *right click to open link on a different page* [Keyman Keyboard](https://keyman.com/)
 3. Open and install the software
 4. Right Click the Universal keyboard file and open with Keyman
 
